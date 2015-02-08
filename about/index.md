@@ -1,26 +1,13 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: About Waratah Root
+excerpt: "Waratah is a large shrub native to my home state, New South Wales of Australia. I have never seen how its root is like."
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: sydney-harbour.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Waratah is a kind of large shrub native to my home state, New South Wales of Australia. While this site is titled Waratah _Root_, I have never seen how its root looks like. I just like the sound of these two words.
 
-## So Simple Theme is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+This site is home to writings of my random thoughts on equally random topics, a lof of which have to do with one of the most fascinating places in the world - China - where I came from.
 
 [^1]: Example: *domain.com/category-name/post-title*
