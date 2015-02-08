@@ -5,7 +5,7 @@ locale: en_US
 description: Yet another site of random thoughts
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://waratahroot.github.io
 
 # Jekyll configuration
 
