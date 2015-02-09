@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Year's Eve Stories
-excerpt: "Random stories heard at dinner table."
+excerpt: "Random stories heard at a friend's dinner table."
 modified: 2015-01-02
 categories: articles
 tags: [random]
@@ -12,7 +12,7 @@ The New Year's Eve dinner I was invited to was quite fun. In addition to the fir
 
 The hostess was a Hong Kong business woman visiting Sydney for vacation, a kind elderly lady. The guests included a young couple newly migrated from Hong Kong and New Zealand, a real estate agent man who came from Solomon Islands in 1978, and my friend who invited me.
 
-The real estate agent man was born to Chinese parents emigrated to Solomon Islands from China before communists seized the power. They made a living by running small shops selling products mostly made in P.R.C., like the antique Phoenix bicycles. He said that by doing so they were doing their "patriotic duties". He seemed to be very pro-China and claimed that "overseas Chinese are very patriotic and just hope that China is strong". (He didn't say directly but implied that it's OK even if the country is ruled by a totalitarian government). I knew that the young couple might disagree - for example, they held strong opinions against Beijing's heavy-handed handling of the recent pro-democracy movements in Hong Kong - but they kept quiet.
+The real estate agent man was born to Chinese parents emigrated to Solomon Islands from China before communists seized the power. They made a living by running small shops selling products mostly made in P.R.C., like the antique Phoenix bicycles. He said that by doing so they were doing their "patriotic duties". He seemed to be very pro-China and claimed that "overseas Chinese are very patriotic and just hope that China is strong". (He didn't say directly but implied that it's OK even if the country is ruled by a totalitarian government.) I knew that the young couple might disagree - for example, they held strong opinions against Beijing's heavy-handed handling of the recent pro-democracy movements in Hong Kong - but they kept quiet.
 He also told some "fascinating" stories of Chinese gangsters in Sydney's Chinatown, like how they extorted protection fees from shop owners. He said that not all businesses cooperated, such as the Koreans, and they received bullet holes in the shopfront.
 
 I think he was racist. He mentioned that some Chinese-Solomon Islanders "even married the locals and ended up having kids with chocolate-coloured skin". That remark was abhorrent, and as a banana-coloured person, I didn't know how to respond. But the young Hong Kong lady commented gracefully, "I think that's a very cool skin colour." (She is very charming, by the way.) For some reason he also mentioned Lee Kuan Yew's racist thinking, saying that the statesman was furious when he found out that his daughter was dating an Indian man.
