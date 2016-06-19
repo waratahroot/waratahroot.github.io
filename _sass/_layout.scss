@@ -356,6 +356,19 @@ span + .entry-title {
 			width: 60%;
 		}
 	}
+	/* post title */
+	.title {
+		display: block;
+		float: none;
+		font-weight: bold
+		@include font-size(18);
+		@include media($medium) {
+			width: 70%;
+		}
+		@include media($large) {
+			width: 60%;
+		}
+	}
 }
 // Tag index
 .tag-box {
