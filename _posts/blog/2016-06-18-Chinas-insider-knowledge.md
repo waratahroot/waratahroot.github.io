@@ -7,7 +7,7 @@ excerpt: "My recently experience learning how things work in China, the Chinese 
 tags: [China]
 image:
 feature:
-date: 2016-06-19
+date: 2016-06-18
 ---
 
 A friend of mine mentioned that her banker made a major mistake crunching the numbers for her home loan. It didn't occur to her to check the calculation until the mistake became too obvious to be overlooked. Now in hindsight I wonder if my own loan broker had got the numbers right for me, because I was like that friend who usually doesn't give a second thought about a professional's work. You rightfully think you are in good hands since you paid for the service, only to find out that you still need to acquire a lot of those "professional knowledge" yourself to make sure everything is in order. This is especially true in China, and I have experienced it firsthand.
