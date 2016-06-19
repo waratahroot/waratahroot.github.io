@@ -1,17 +1,16 @@
 ---
 layout: post
 title: "China's Insider's Knowledge"
-excerpt: "My recently experience learning how things work in China, the Chinese way"
 modified:
 categories: blog
-excerpt:
+excerpt: "My recently experience learning how things work in China, the Chinese way"
 tags: [China]
 image:
-  feature:
+feature:
 date: 2016-06-19
 ---
 
-A friend of mine mentioned that her banker made a major mistake crunching the numbers for her home loan. It didn't occur to her to check the banker's calculation until the mistake became too obvious to be overlooked. Now in hindsight I wonder if my own loan broker has got the numbers right for me, because I was like that friend who usually don't give a second thought about a professional's work. You rightfully think you are in good hands since you paid for the service, only to find out that you still need to acquire a lot of those "professional knowledge" yourself to make sure everything is in order. This is especially true in China, and I have experienced it firsthand.
+A friend of mine mentioned that her banker made a major mistake crunching the numbers for her home loan. It didn't occur to her to check the calculation until the mistake became too obvious to be overlooked. Now in hindsight I wonder if my own loan broker has got the numbers right for me, because I was like that friend who usually doesn't give a second thought about a professional's work. You rightfully think you are in good hands since you paid for the service, only to find out that you still need to acquire a lot of those "professional knowledge" yourself to make sure everything is in order. This is especially true in China, and I have experienced it firsthand.
 
 The past a few weeks have been testing. It's usually my sister who takes care of the "people business" by which I mean talking to government clerks in charge of reimbursing us Dad's medical expense or real estate agents to rent an apartment. But now it's on my shoulder. In my home country this is not an issue, because information about how things work are easily accessible and well understood. I only need to check out a government agency's website and everything is clearly stated there. Very often, many transactions can also be done online. But now in China, you don't have a clue. It's not like I got disconnected to the local social environment after being absent for these years. It's always been like that. People seem to tend to obscure the "rules" deliberately and expect individuals to learn the "insider's knowledge" by themselves, in their own way.
 
