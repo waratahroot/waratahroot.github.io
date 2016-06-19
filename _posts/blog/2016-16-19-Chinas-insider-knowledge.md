@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "China's Insider's Knowledge"
+title: "Insider's Knowledge"
 modified:
 categories: blog
 excerpt: "My recently experience learning how things work in China, the Chinese way"
